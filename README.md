@@ -1,2 +1,2 @@
-# desktopproject
-Desktop Project Description
+SH FishShop
+The Online Fish Shop System is a Java-based desktop application developed using Java Swing and NetBeans IDE. This system enables users to order various types of fish online through an interactive graphical interface. It provides features for selecting fish items, specifying quantities, and automatically generating a detailed receipt that includes item name, price, quantity, subtotal, tax, and total amount. The application also includes a login page that collects user details such as username, address, and mobile number, which are displayed on the generated receipt. This project demonstrates the use of object-oriented programming concepts, event handling, and GUI design in Java. The system aims to simplify the fish ordering process and improve customer convenience through a digital platform.
